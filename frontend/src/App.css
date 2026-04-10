@@ -1,0 +1,12 @@
+.domain-selection {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 18px;
+  cursor: pointer;
+}
