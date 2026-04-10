@@ -6,7 +6,7 @@ An end-to-end **team-based machine learning system** that predicts customer chur
 
 ## 📌 Overview
 
-This project is a **collaborative mini-project (team of 4)** where each member independently built a churn prediction model, and all models were integrated into a unified intelligent system.
+This project is a **collaborative mini-project (team of 4)** where each member independently built a churn prediction model, and all models were integrated into a unified intelligent system .
 
 The system goes beyond basic prediction by combining:
 
