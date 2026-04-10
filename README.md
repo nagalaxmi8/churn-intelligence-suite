@@ -24,9 +24,10 @@ The system goes beyond basic prediction by combining:
 ### 🔹 1. Multi-Model Churn Prediction System
 
 - Built and integrated **4 different churn prediction models**:
-  - Random Forest  
-  - XGBoost  
-  - (Add your other 2 models here)  
+  - Banking  
+  - Telecom
+  - Ecommerce
+  - Netflix  
 - Compared performance across models  
 - Achieved **85%+ accuracy (best-performing model)**  
 - Predicts churn probability in real-time  
